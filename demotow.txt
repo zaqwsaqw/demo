@@ -1,0 +1,6 @@
+第二次测试！！！！！！！！！！！！！
+	int demo =1;
+	int num =2;
+	int sum;
+	sum=demo+num;
+	print(sum);
